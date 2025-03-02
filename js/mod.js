@@ -1,5 +1,4 @@
 let modInfo = {
-	name: "The ??? Tree",
 	name: "The Basic Tree",
 	author: "nobody",
 	pointsName: "基本尘埃",
